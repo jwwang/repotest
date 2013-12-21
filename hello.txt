@@ -1,2 +1,3 @@
 hello test.
 fix bug 1.
+hello test2.
